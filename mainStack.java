@@ -1,7 +1,5 @@
 
 
-import javax.sound.sampled.SourceDataLine;
-
 public class mainStack {
     public static void main(String[] args) {
         StackClass st = new StackClass();

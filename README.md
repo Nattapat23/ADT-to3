@@ -1,6 +1,19 @@
 # ADT-to3
 ADT to3
 
+input :  
+        st.push("Natthapat", 3.65, "01");
+        st.push("metavee",3.89, "02");
+        st.push("Phu", 3.64, "03");
+        st.push("Namo", 3.22, "04");
+        st.push("Fha", 3.55, "05");
+        st.push("Guy", 3.65, "06");
+        st.push("Jo", 3.54, "07");
+
+
+
+
+
 out put :
 
 Push : [Natthapat, GPA : 3.65, SID : 01]

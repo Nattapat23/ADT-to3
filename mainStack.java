@@ -1,4 +1,5 @@
-
+// Natthapat Jagkhuruang 672115016
+//for ADT class tutorial 3
 
 public class mainStack {
     public static void main(String[] args) {
